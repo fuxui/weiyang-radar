@@ -46,6 +46,8 @@ python -m unittest discover -s tests -p "test_*.py"
 
 如果这个工具对你有帮助，可以自愿打赏支持作者。工具可免费使用，打赏完全自愿，不影响任何功能。感谢支持。
 
+<img src="assets/donate.png" alt="自愿打赏二维码" width="240">
+
 ## 许可
 
 原创源码、文档、合成样例与本仓库可重现的几何图标使用 MIT。收款二维码、用户头像、第三方商标和外部来源内容不属于 MIT 授权范围。参见 [LICENSE](LICENSE) 和 [THIRD_PARTY.md](THIRD_PARTY.md)。
