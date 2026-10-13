@@ -1,0 +1,30 @@
+[
+  {
+    "title": "合成演练：科技工具观察",
+    "category": "前沿科技",
+    "source": "https://example.invalid/radar-demo-tech",
+    "notes": "仅供离线流程练习：没有真实新闻来源或商业结论。请把核实记录写为教学演练，勿当成真实已核实素材。",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "verified": false
+  },
+  {
+    "title": "合成演练：生活记录",
+    "category": "生活记录",
+    "source": "https://example.invalid/radar-demo-life",
+    "notes": "合成样例，不是实时数据。用于检验非默认领域筛选、重复导入与本地导出。",
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "verified": false
+  }
+]

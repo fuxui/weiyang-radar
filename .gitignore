@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.test-work/
+*.sqlite*
+*.db
+.env
+.env.*
+!.env.example
+*手机连接配置*
+*手机访问地址*
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
